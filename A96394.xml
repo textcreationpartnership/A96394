@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few positions of the sincere belief and Christian doctrine of the people of God called Quakers (to obviate misrepresentations and calumnies about the same.) Being inserted as an appendix to a book, entituled, A sober expostulation with some of the clergy, &amp;c.</title>
+            <author>Whitehead, George, 1636?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96394</idno>
+            <idno type="STC">Wing W1929</idno>
+            <idno type="STC">ESTC R186522</idno>
+            <idno type="EEBO-CITATION">47683547</idno>
+            <idno type="OCLC">ocm 47683547</idno>
+            <idno type="VID">173001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173001)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2661:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few positions of the sincere belief and Christian doctrine of the people of God called Quakers (to obviate misrepresentations and calumnies about the same.) Being inserted as an appendix to a book, entituled, A sober expostulation with some of the clergy, &amp;c.</title>
+                  <author>Whitehead, George, 1636?-1723.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed and Sold by T. Sowle, in White-Hart-Court in Gracious-Street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Main body of article signed: George Whitehead. Final statement of Quakers' doctrinal postions signed: "Signed in behalf of the said people, Thomas Lower, William Crouch, William ingram [and 29 others]. This last declaration was subjoyned to a paper, intitutled, The Quakers vindication, and given to the members of Parliament in the year 1693."</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:173001:1" rendition="simple:additions"/>
+            <head>A few <hi>Poſitions</hi> of the Sincere Belief and Chriſtian Doctrine of the People of God called <hi>Quakers</hi> (to obviate Miſ<g ref="char:EOLhyphen"/>repreſentations and Calumnies about the ſame.)</head>
+            <head type="sub">Being Inſerted as an <hi>Appendix</hi> to a Book, entituled, <hi>A Sober Expoſtulation with ſome of the Clergy,</hi> &amp;c.</head>
+            <p n="1">I. WE, the ſaid People, are bound in Conſcience and Duty, by the Holy Spirit, and Light of <hi>Chriſt Jeſus,</hi> only and humbly to Adore and Worſhip the only True and Living <hi>God,</hi> Creator of Hea<g ref="char:EOLhyphen"/>ven and Earth, the Sea, and all Creatures; and not to Adore or Worſhip any Mortal Man, or Creature, or any other God whatſoever.</p>
+            <p n="2">II. To believe and confeſs the Holy Divine Three (or Scripture-Trinity) that bear Record in Heaven, the <hi>Father,</hi> the <hi>Word</hi> (or <hi>Son)</hi> and <hi>Holy Spirit;</hi> and that theſe Three are Eſſentially One in the Divine Being and Subſtance; One God, Bleſſed for Ever.</p>
+            <p n="3">III. We are livingly Taught and Led by the Light and Spirit of <hi>Chriſt Jeſus,</hi> the Living Word in our Hearts (and that according to Holy Scrip<g ref="char:EOLhyphen"/>ture) to Believe, Own, and Confeſs the <hi>Incarnation</hi> of <hi>Jeſus Chriſt;</hi> that is, his Real Coming in the Fleſh, without us; even the ſame <hi>Jeſus</hi> of <hi>Naza<g ref="char:EOLhyphen"/>reth,</hi> that was Conceived in the Virgin <hi>Mary,</hi> by the Power of the Holy, Ghoſt overſhadowing her, and Born of her in <hi>Bethlehem</hi> of <hi>Judea,</hi> Mat. 2. 1. and that he was Crucified, and put to Death, as concerning the Fleſh, without the Gates of <hi>Jeruſalem;</hi> and we highly do Value and Eſteem his Sufferings, Death, Precious Blood, and whole Sacrifice for Sinners; together with his Reſurrection and Aſcenſion into Heaven and Glory; and that he only was and is the Promiſed <hi>Meſſiah,</hi> the very <hi>Chriſt,</hi> the <hi>Only Begotten Son</hi> of the Living God: And as for his <hi>Divinity,</hi> That he is the true Light, Life, Power, and Wiſdom of God, and none other, according to plain Scripture-Teſtimony.</p>
+            <p n="4">IV. The <hi>Divinity</hi> and <hi>Humanity</hi> (i. e. <hi>Manhood)</hi> of <hi>Chriſt Jeſus,</hi> that as he is True God, and he is moſt Glorious Man, our Mediator and Advocate, we livingly Believe, and have often ſincerely Confeſſed in our Publick Teſti<g ref="char:EOLhyphen"/>monies and Writings.</p>
+            <p n="5">V. That as ſincere and fervent Prayers to God, in the Name and Spirit of <hi>Chriſt Jeſus,</hi> is the Duty of all true Believers and Chriſtians profeſſing. Him, for whatſoever they ſtand in need of, eſpecially with reſpect to the Peace and Happineſs of their Immortal Souls; ſo all who are truly humbled under a Senſe of their Sins, in order to true Repentance and Converſion, ought to crave Forgiveneſs in the Name, and for the Sake of <hi>Chriſt Jeſus;</hi> which hath been our Practice, both Publick and Private; and God in Mer<g ref="char:EOLhyphen"/>cy hath accordingly anſwered us; who, by his Grace in our Hearts, hath led many both to confeſs and forſake Sin, that they might find Mercy in <hi>Chriſt Jeſus.</hi>
+            </p>
+            <p n="6">VI. Though we are bound in Conſcience truly to Eſteem and Magnifie the <hi>Divine Light,</hi> the <hi>Ingrafted Word,</hi> the <hi>Spirit</hi> and <hi>Power</hi> of <hi>Chriſt</hi> in Us, as ſuffi<g ref="char:EOLhyphen"/>cient and able actually to ſave and deliver the Soul from Sin, Death, and Condemnation; and thereby we Confeſs the Man <hi>Chriſt Jeſus,</hi> with reſpect to his intire <hi>Exiſtence,</hi> or <hi>Being,</hi> as <hi>without</hi> Us, as well as we do Own Him Spiritually <hi>within</hi> Us; knowing that this <hi>Light, Life,</hi> and <hi>Spirit</hi> of <hi>Chriſt Jeſus,</hi> Teſtifie of Him, and certainly Guide the truly Obedient and Sincere Believers in his Name and Power, <hi>Inwardly, Livingly,</hi> and <hi>Experimentally,</hi> to partake of the Real Benefits, Fruits, and Bleſſed Ends of his <hi>outward</hi> Suffering, Sacrifice and Death for Mankind; to wit, their Repentance, Converſion from Sin, Ef<g ref="char:EOLhyphen"/>fectual Reconciliation unto God, Eternal Salvation, and Compleat Redemption, which <hi>Chriſt Jeſus</hi> has obtained for us <hi>(i. e.</hi> for all Mankind) through his Mediation and Sufferings.</p>
+            <p n="7">VII. Our Really Believing and Confeſſing the Lord <hi>Jeſus Chriſt,</hi> his Paſſion, Sufferings, Death, Attonement, and Reconciliation made <hi>for Us,</hi> and his Re<g ref="char:EOLhyphen"/>ſurrection, Aſcenſion, and Glorification (as without us) according to Scrip<g ref="char:EOLhyphen"/>ture, cannot be to Allegorize theſe away, as if only tranſacted within Us, (as we have been unduly Accuſed) for they were really done and tranſacted without Us, by our Bleſſed Lord <hi>Jeſus Chriſt;</hi> tho' our true Knowledge of the Power and Effect of his Reſurrection, and Fellowſhip of his Sufferings, and our being Conformable to his Death, muſt be Experienced <hi>within Us,</hi> if ever we Live to Reign with Him.</p>
+            <p n="8">VIII. We ſincerely Prefer and Eſteem the <hi>Holy Scriptures</hi> of the <hi>Old</hi> and <hi>New Teſtament,</hi> contained in that excellent Book, commonly called the <hi>Bible</hi> (as moſt Eminently Confirmed by Divine Authority, and Faithful Witneſſes) be<g ref="char:EOLhyphen"/>fore all other Books whatſoever extant in the World; and yet our preferring the <hi>Holy Spirit</hi> (from whence the Scripture came) before the <hi>Letter</hi> of the Scripture, is not to undervalue the Scripture; for the <hi>Spirit</hi> muſt needs have the Preference and Preheminence, as being the Author, and Original Cauſe, and Dictator of the Holy Scriptures, and Giver of Light and Life alſo, whereby truly to underſtand them, and to live accordingly.</p>
+            <p n="9">IX. As for <hi>Baptiſm</hi> and the <hi>Lord's Supper,</hi> they are Scripturally conſidered by us, in their ſeveral Diſpenſations, both as in the <hi>Figure,</hi> and in the <hi>Subſtance,</hi> in the <hi>Type</hi> and <hi>Antitype;</hi> as the outward, or Litteral, were Typical or Figu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: blotted" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tive of the Inward and Spiritual, we confeſs and own, conſidered in their Places, and proper Diſpenſations; but the Subſtance is more Excellent and Permanent than the Shadow; as the Inward and Spiritual Grace is more. Excellent than the Outward and Viſible Signs; and as Chriſt's Spiritual <hi>Bap<g ref="char:EOLhyphen"/>tiſm,</hi> which is the ſaving <hi>Baptiſm,</hi> was Typified by <hi>John's.</hi> And to Eat and Drink, or Sup with Chriſt in his Kingdom, of that Spiritual Meat and Drink which he gives for Life to the Soul, was Typified or Figured forth by his Outward Supper of the Paſſover, Bread and Cup; for the Outward Element of Water cannot waſh away Sin from the Soul, neither can the Outward Bread or Cup, give Life or Nouriſhment to the Soul.</p>
+            <p>
+               <hi>The Shadows flee away, but the Sun and Subſtance remain.</hi>
+            </p>
+            <p n="10">X. We ſincerely Believe, and have often Confeſſed the Immortality of the Soul of Man, that was Created in God's Image, and the Doctrine of the <hi>Re<g ref="char:EOLhyphen"/>ſurrection of the Dead,</hi> according as laid down in Holy Scripture, 1 <hi>Cor.</hi> 15th Chapter; and of <hi>Eternal Judgment by Jeſus Chriſt,</hi> as being Judge of the Li<g ref="char:EOLhyphen"/>ving, and of the Dead, in the Great and Laſt Day of Judgment, at the Great Harveſt, which is the End of the World; God having appointed a Day wherein he will Raiſe the Dead, both the Juſt and Unjuſt, and alſo Judge the World in Righteouſneſs, by that (Heavenly and moſt Glorious) Man <hi>Chriſt Jeſus</hi> whom he hath ordained, <hi>Acts</hi> 17. 31. before whoſe Tribunal Seat all muſt appear, to Receive their Final Judgment and Sentence, accord<g ref="char:EOLhyphen"/>ing to their Deeds done in the Body, whether they be Good or Evil.</p>
+            <p n="11">XI. That <hi>Chriſt</hi>'s Goſpel Miniſtry muſt be Free, without forced Mainte<g ref="char:EOLhyphen"/>nance, filthy Lucre, or Covetouſneſs.</p>
+            <p n="12">XII. That Magiſtracy, or Civil Government, is God's Ordinance; the good Ends thereof being for the <hi>Puniſhment of Evil Doers, and Praiſe of them that do Well.</hi>
+            </p>
+            <p>Theſe Things we ſincerely Believe and Own; and we know no Doctrine or Principle (Preached, Maintained, or Received among, or by Us, ſince we were a People) contrary to theſe before mentioned; nor do we Own any contrary thereunto.</p>
+            <closer>
+               <signed>Signed in Behalf of the ſaid People, and to Clear my own Innocency in Par<g ref="char:EOLhyphen"/>ticular;
+<hi>By</hi>
+George Whitehead.</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <p>WE whoſe Names are underwritten (being in Chriſtian Society with the People commonly called <hi>Quakers)</hi> Do in good Conſcience De<g ref="char:EOLhyphen"/>clare and Certifie all Perſons concerned,</p>
+            <p n="1">1. That we ſincerely Believe and Confeſs, That <hi>Jeſus</hi> of <hi>Nazareth,</hi> who was Born of the Virgin <hi>Mary,</hi> is the true <hi>Meſſiah,</hi> the very <hi>Chriſt,</hi> the Son of the Living God, to whom all his Prophets gave Witneſs. And we do highly value his Death, Sufferings, Works, Offices, and Merits for the Redempti<g ref="char:EOLhyphen"/>on and Salvation of Mankind, together with his Laws, Doctrine and Mi<g ref="char:EOLhyphen"/>niſtry.</p>
+            <p n="2">2. That this very <hi>Chriſt of God,</hi> was and is the <hi>Lamb of God,</hi> that takes away the Sins of the World, who was Slain, was Dead, and is Alive, and Lives for Evermore, in his Divine Eternal Glory, Dominion and Power with the Father.</p>
+            <p n="3">3. That the <hi>Holy Scriptures</hi> of the Old and New Teſtament are of <hi>Divine Authority,</hi> as being given by Inſpiration from God.</p>
+            <p n="4">4. And that <hi>Magiſtracy,</hi> or <hi>Civil Government</hi> is God's Ordinance, the good Ends thereof being for the <hi>Puniſhment of Evil Doers, and Praiſe ef them that do Well.</hi>
+            </p>
+            <p>And we know of no other Doctrine or Principle, Preached, Maintained, or ever Received among, or by Us, ſince we were a People, contrary to theſe before mentioned.</p>
+            <closer>
+               <signed>
+                  <hi>Signed in Behalf of the ſaid People,</hi>
+                  <list>
+                     <item>Thomas Lower,</item>
+                     <item>William Crouch,</item>
+                     <item>William Ingram,</item>
+                     <item>William Meade,</item>
+                     <item>William Macket,</item>
+                     <item>Philip Ford,</item>
+                     <item>Francis Camfield,</item>
+                     <item>John Edge,</item>
+                     <item>Thomas Hutſon,</item>
+                     <item>Charles Marſhall,</item>
+                     <item>Joſiah Ellis,</item>
+                     <item>Gilbert Latey,</item>
+                     <item>Theodor Eccleſton,</item>
+                     <item>Joſeph Waſſey,</item>
+                     <item>Thomas Cox,</item>
+                     <item>John Bowater,</item>
+                     <item>John Vaughton,</item>
+                     <item>William Phillips,</item>
+                     <item>Edward Brook,</item>
+                     <item>William Townſend,</item>
+                     <item>John Hall,</item>
+                     <item>George Oldner,</item>
+                     <item>Thomas Barker,</item>
+                     <item>Abraham Johnſon,</item>
+                     <item>Tho. Twinbarrow,</item>
+                     <item>Michael Ruſſel,</item>
+                     <item>John Harwood,</item>
+                     <item>John Danſon,</item>
+                     <item>John Stringfellow,</item>
+                     <item>William Paul,</item>
+                     <item>Francis Etteridge,</item>
+                     <item>Benjamin Bealing.</item>
+                  </list>
+               </signed>
+This laſt Declaration was ſubjoyned to a Paper, Intituled, <hi>The Quakers Vin<g ref="char:EOLhyphen"/>cation,</hi> and given to the <hi>Members of Parliament</hi> in the Year 1693.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
